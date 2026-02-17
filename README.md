@@ -97,4 +97,5 @@ If you're working on AI systems, scalable data products, or ambitious startups �
 🌐 [Students Compass](https://studentscompass.ca/)
 🌐 [Teko](https://teko.fitness/)
 🌐 [Portfolio](https://manuelmedinadatapro.carrd.co/)
+🌐 [YouTube](https://www.youtube.com/channel/UCNOMtraPOmU5hlnXno522hw)
 🌐 [Linkedin](https://www.linkedin.com/in/manuel-alejandro-medina-cabrera-11b95116a/)
