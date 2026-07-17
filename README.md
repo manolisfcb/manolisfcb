@@ -15,7 +15,6 @@ Master’s student in Data Analytics with a background that combines:
 • End-to-end product architecture (TEKO)  
 
 I specialize in building real-world systems — not just notebooks.
-ilt with FastAPI, Supabase, BigQuery, and LLM-based resume intelligence.
 
 🌐 [DUKAPP](https://dukapp.com/)
 🌐 [Students Compass](https://studentscompass.ca/)
